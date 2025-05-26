@@ -1,0 +1,5 @@
+D 'lmabp': Box-Pierce Autocorrelation LM Test at Higher Order AR(p) Use lmabp With STATA 19
+D
+F lmabp.ado
+F lmabp.dlg
+F lmabp.sthlp
