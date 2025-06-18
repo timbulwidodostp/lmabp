@@ -1,6 +1,8 @@
 # lmabp
 Box-Pierce Autocorrelation LM Test at Higher Order AR(p) Use lmabp With STATA 19
 
+https://www.youtube.com/watch?v=uszfI9kLCaU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
